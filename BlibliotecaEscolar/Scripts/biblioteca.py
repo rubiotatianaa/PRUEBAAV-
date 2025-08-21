@@ -37,5 +37,6 @@ def agregar_libros(titulo, autor, año, indice):
                 añoNuevo = input("Digite el nuevo año")
                 indiceNuevo = input("Digite el indice nuevo")
 
-                
+#LLamar librerias 
+agregar_libros('sien años de soledad', 'Gabiel Garcias', 1873, 200)
             
